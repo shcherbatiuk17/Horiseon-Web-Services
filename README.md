@@ -18,7 +18,7 @@ Built with HTML and CSS.
 ### Executing program
 
 ## Help
- Please reach out to me Github if you see any issues.
+ Please reach out to me on Github if you see any issues.
 
 ## Author
 Orginal code was from Univeristy of Minnesota bootcmap
